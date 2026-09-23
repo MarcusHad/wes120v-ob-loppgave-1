@@ -14,7 +14,7 @@ Installer avhengighetene med:
 ```bash
 pnpm install
 
-oppstart: start dev server med "pmpm dev"
+oppstart: start dev server med "pnpm dev"
 ## Prosjektstruktur
 
 `index.html` er prosjektets entrypoint.
